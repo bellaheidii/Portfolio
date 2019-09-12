@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "In my portfolio I have added a few homewroks and projects I've done from my coding bootcamp at the Univesity of Washington. Please don't hesitate to let me know if you have questions about the code or would like to reach out to me about working together.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellaheidii/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellaheidii/Portfolio/issues"
+  },
+  "homepage": "https://github.com/bellaheidii/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
